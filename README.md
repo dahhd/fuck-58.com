@@ -15,6 +15,7 @@
 - 去法院起诉有用吗？同样以被诈骗进行起诉是否可行？
 
 以下是涉及到的可以反应事件发生过程的截图：
+图片如果无法正常显示，可能需要fq，图片地址托管在 github 上的。
 
 
 ![1](https://raw.githubusercontent.com/dahhd/blog/master/picture/WechatIMG1041.jpeg)
